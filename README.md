@@ -1,4 +1,4 @@
-#Natural Language Processing
+## Natural Language Processing
 What you will learn:
 
 1) Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies & translate words.
